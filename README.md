@@ -5,17 +5,6 @@ This repository contains a complete implementation for generating images from te
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Repository Structure](#repository-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Training](#training)
-- [Images](#images)
-- [License](#license)
-
----
 
 ## Overview
 
@@ -40,6 +29,5 @@ This modular approach allows easy experimentation with different datasets and di
 
 ---
 
-## Repository Structure
 
 
